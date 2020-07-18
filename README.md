@@ -1,4 +1,4 @@
-<img alt="FIDUCEO: AVHRR NOISE CHARACTERISTICS" align="right" src="http://www.fiduceo.eu/sites/default/files/FIDUCEO-logo.png">
+![image](http://www.fiduceo.eu/sites/default/files/FIDUCEO-logo.png)
 
 [![Build Status](https://travis-ci.org/patternizer/AVHRR_NOISE.svg?branch=master)](https://travis-ci.org/patternizer/AVHRR_NOISE)
 [![Build status](https://ci.appveyor.com/api/projects/status/AVHRR_NOISE/branch/master?svg=true)](https://ci.appveyor.com/project/patternizer/AVHRR_NOISE-core)
